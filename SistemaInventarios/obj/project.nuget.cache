@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QlWC0bNk2HY4/C9EwKyK+YEQiuPF185CdMgFvp2psbIr8Js0d33QAyJdM2VD5j78mhLsFgEYHmJQAg/3d6T/9A==",
+  "dgSpecHash": "I0HRwF449C46P3U2h4Mt/BxaAllFvKrJZTJKlcA6n6s+XflSsX3jMfzZJZZDXPBT2DRaPL4SXZ7vz1mF/oUfuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\vtamanti\\OneDrive - DXC Production\\Documents\\Proyectos\\SistemaInventarios\\SistemaInventarios\\SistemaInventarios.csproj",
   "expectedPackageFiles": [
@@ -12,11 +12,15 @@
     "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\8.0.0\\microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\8.0.0\\microsoft.aspnetcore.identity.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.0\\microsoft.aspnetcore.identity.ui.8.0.0.nupkg.sha512",
+    "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.0.nupkg.sha512",
+    "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
     "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0\\microsoft.codeanalysis.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\4.5.0\\microsoft.codeanalysis.csharp.workspaces.4.5.0.nupkg.sha512",
+    "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.0\\microsoft.codeanalysis.razor.6.0.0.nupkg.sha512",
     "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.5.0\\microsoft.codeanalysis.workspaces.common.4.5.0.nupkg.sha512",
     "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\vtamanti\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
